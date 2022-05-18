@@ -52,3 +52,7 @@ D:\Proiecte\skinet\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\Proiecte\skinet\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\Proiecte\skinet\API\bin\Debug\net6.0\Humanizer.dll
 D:\Proiecte\skinet\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proiecte\skinet\API\bin\Debug\net6.0\Core.dll
+D:\Proiecte\skinet\API\bin\Debug\net6.0\Infrastructure.dll
+D:\Proiecte\skinet\API\bin\Debug\net6.0\Infrastructure.pdb
+D:\Proiecte\skinet\API\bin\Debug\net6.0\Core.pdb
